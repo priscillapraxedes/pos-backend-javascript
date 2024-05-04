@@ -1,0 +1,12 @@
+body {
+    background-color: cadetblue;
+}
+
+.flag {
+    min-height: 6.5rem;
+}
+  
+.flag p {
+    font-size: .8rem;
+    color: #000000;
+}
